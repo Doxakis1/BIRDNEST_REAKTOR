@@ -27,3 +27,4 @@ Was C a good idea?
 	
 How is the hosting done?
 	I am running the script on a Google drive server running with apache. 
+The project does not have a makefile as the libraries used require different commands on different OS:s.
