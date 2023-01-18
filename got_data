@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <deviceInformation deviceId="GUARDB1RD">
+    <listenRange>500000</listenRange>
+    <deviceStarted>2023-01-08T14:33:50.530Z</deviceStarted>
+    <uptimeSeconds>7488</uptimeSeconds>
+    <updateIntervalMs>2000</updateIntervalMs>
+  </deviceInformation>
+  <capture snapshotTimestamp="2023-01-08T16:38:38.898Z">
+    <drone>
+      <serialNumber>SN-EjBqp_-MOa</serialNumber>
+      <model>Altitude X</model>
+      <manufacturer>DroneGoat Inc</manufacturer>
+      <mac>a5:2f:70:9d:27:92</mac>
+      <ipv4>177.184.174.210</ipv4>
+      <ipv6>beea:50ab:868d:3cbd:773b:0cbb:38a7:5938</ipv6>
+      <firmware>4.6.0</firmware>
+      <positionY>476084.8566572156</positionY>
+      <positionX>485242.2866099406</positionX>
+      <altitude>4091.681513427261</altitude>
+    </drone>
+    <drone>
+      <serialNumber>SN-6TQ02ft-At</serialNumber>
+      <model>HRP-DRP 1 Pro</model>
+      <manufacturer>ProDröne Ltd</manufacturer>
+      <mac>fe:ba:09:76:28:fc</mac>
+      <ipv4>174.19.89.226</ipv4>
+      <ipv6>c0a6:5224:9598:5c7a:d4d5:443d:0b1c:5463</ipv6>
+      <firmware>0.9.4</firmware>
+      <positionY>26590.58258261134</positionY>
+      <positionX>181937.7324723465</positionX>
+      <altitude>4724.401865358282</altitude>
+    </drone>
+    <drone>
+      <serialNumber>SN-Icv5ge5fIP</serialNumber>
+      <model>HRP-DRP 1 Max</model>
+      <manufacturer>ProDröne Ltd</manufacturer>
+      <mac>44:96:b4:0d:4c:b5</mac>
+      <ipv4>132.239.210.12</ipv4>
+      <ipv6>5453:4c8a:7403:4900:37fc:8d50:af24:2fbe</ipv6>
+      <firmware>4.8.8</firmware>
+      <positionY>402533.0688426142</positionY>
+      <positionX>437065.4773148546</positionX>
+      <altitude>4108.157600149684</altitude>
+    </drone>
+    <drone>
+      <serialNumber>SN-KuuuK1X5mn</serialNumber>
+      <model>Altitude X</model>
+      <manufacturer>DroneGoat Inc</manufacturer>
+      <mac>ee:be:e1:a6:03:ca</mac>
+      <ipv4>161.77.67.224</ipv4>
+      <ipv6>2b38:9e75:52af:54eb:9117:6901:9f11:0a27</ipv6>
+      <firmware>0.5.0</firmware>
+      <positionY>329842.2422903028</positionY>
+      <positionX>122303.28230759822</positionX>
+      <altitude>4713.902482763506</altitude>
+    </drone>
+    <drone>
+      <serialNumber>SN-vjugnTQgMb</serialNumber>
+      <model>HRP-DRP 1 Pro</model>
+      <manufacturer>ProDröne Ltd</manufacturer>
+      <mac>53:2d:d5:47:15:54</mac>
+      <ipv4>194.210.143.186</ipv4>
+      <ipv6>c73b:a73a:67f8:d222:f24a:0b6c:f255:fedd</ipv6>
+      <firmware>6.3.9</firmware>
+      <positionY>361614.7137418593</positionY>
+      <positionX>34105.40123505604</positionX>
+      <altitude>4793.863820975454</altitude>
+    </drone>
+  </capture>
+</report>
